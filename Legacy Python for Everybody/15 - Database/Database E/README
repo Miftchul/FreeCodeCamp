@@ -1,0 +1,4 @@
+What does the INSERT command do in SQL?
+
+answer:
+It defines a new row by listing the fields we want to include followed by the values we want placed in the new row.

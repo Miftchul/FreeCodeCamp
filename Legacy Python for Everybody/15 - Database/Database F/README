@@ -1,0 +1,4 @@
+When using a JOIN clause in an SQL statement, what does ON do?
+
+answer:
+It indicates how the two tables are to be joined.

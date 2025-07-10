@@ -1,0 +1,4 @@
+What is a foreign key?
+
+answer/:
+A number that points to the primary key of an associated row in a different table.
