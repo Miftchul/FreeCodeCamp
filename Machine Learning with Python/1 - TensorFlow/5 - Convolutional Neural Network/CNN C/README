@@ -1,0 +1,14 @@
+# Fill in the blanks below to complete the architecture for a convolutional neural network:
+
+# model = models.__A__()
+# model.add(layers.__B__(32, (3, 3), activation='relu', input_shape=(32, 32, 3)))
+# model.add(layers.__C__(2, 2))
+# model.add(layers.__B__(64, (3, 3), activation='relu'))
+# model.add(layers.__C__(2, 2))
+# model.add(layers.__B__(32, (3, 3), activation='relu'))
+# model.add(layers.__C__(2, 2))
+
+# answer:
+# A: Sequential
+# B: Conv2D
+# C: MaxPooling2D

@@ -1,0 +1,5 @@
+A densely connected neural network is one in which...:
+
+answer:
+all the neurons in the current layer are connected to every neuron in the previous layer.
+

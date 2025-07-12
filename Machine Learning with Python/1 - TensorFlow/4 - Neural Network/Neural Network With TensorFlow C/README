@@ -1,0 +1,4 @@
+What is an optimizer function?
+
+answer:
+A function that implements the gradient descent and backpropagation algorithms for you.

@@ -1,0 +1,4 @@
+What does the pandas .head() function do?
+
+answer:
+By default, shows the first five rows or entries in a data frame.

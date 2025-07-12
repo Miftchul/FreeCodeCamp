@@ -1,0 +1,4 @@
+Dense neural networks analyze input on a global scale and recognize patterns in specific areas. Convolutional neural networks...:
+
+answer:
+scan through the entire input a little at a time and learn local patterns.

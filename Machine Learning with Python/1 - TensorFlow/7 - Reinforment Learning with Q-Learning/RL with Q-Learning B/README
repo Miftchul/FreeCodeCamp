@@ -1,0 +1,4 @@
+What can happen if the agent does not have a good balance of taking random actions and using learned actions?
+
+answer:
+The agent will always try to maximize its reward for the current state/action, leading to local maxima.

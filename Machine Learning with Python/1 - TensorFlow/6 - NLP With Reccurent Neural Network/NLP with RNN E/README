@@ -1,0 +1,4 @@
+Before you make a prediction with your own review, you should...:
+
+answer:
+use the encodings from the training dataset to encode your review.

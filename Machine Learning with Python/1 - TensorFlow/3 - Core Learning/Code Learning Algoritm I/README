@@ -1,0 +1,4 @@
+What TensorFlow module should you import to implement .HiddenMarkovModel()?
+
+answer:
+tensorflow_probability

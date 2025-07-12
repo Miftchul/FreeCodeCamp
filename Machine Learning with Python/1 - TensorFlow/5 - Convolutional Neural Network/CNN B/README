@@ -1,0 +1,4 @@
+What are the three main properties of each convolutional layer?
+
+answer:
+Input size, the number of filters, and the sample size of the filters.

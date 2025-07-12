@@ -1,0 +1,11 @@
+Fill in the blanks below to use Google's pre-trained MobileNet V2 model as a base for a convolutional neural network:
+
+base_model = tf.__A__.applications.__B__(input_shape=(160, 160, 3),
+                                               include_top=__C__,
+                                               weights='imagenet'
+                                               )
+
+answer:
+A: keras
+B: MobileNetV2
+C: False

@@ -1,0 +1,21 @@
+Questions:
+
+1. Why is it better to calculate the gradient (slope) directly rather than numerically?
+
+answer:
+It is computationally expensive to go back through the entire neural network and adjust the weights for each layer of the neural network.
+
+2. What are the main neural network components that make up a Long Short Term Memory network?
+
+answer:
+Prediction, ignoring, forgetting, and selection.
+
+3. How should you assign weights to input neurons before training your network for the first time?
+
+answer:
+Completely randomly.
+
+4. When are Convolutional Neural Networks not useful?
+
+answer:
+If your data can't be made to look like an image, or if you can rearrange elements of your data and it's still just as useful.

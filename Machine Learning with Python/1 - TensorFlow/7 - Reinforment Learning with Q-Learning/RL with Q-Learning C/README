@@ -1,0 +1,8 @@
+# Fill in the blanks to complete the following Q-Learning equation:
+
+# Q[__A__, __B__] = Q[__A__, __B__] + LEARNING_RATE * (reward + GAMMA * np.max(Q[__C__, :]) - Q[__A__, __B__])
+
+# answer:
+# A: state
+# B: action
+# C: next_state
