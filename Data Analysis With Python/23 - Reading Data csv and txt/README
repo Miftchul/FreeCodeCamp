@@ -1,0 +1,5 @@
+# How would you import the CSV file data.csv and store it in a DataFrame using the Pandas module?
+
+# answer:
+# import pandas as pd
+# df = pd.read_csv("data.csv")

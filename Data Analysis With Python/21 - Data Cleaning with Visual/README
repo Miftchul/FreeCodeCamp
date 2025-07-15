@@ -1,0 +1,6 @@
+When using Matplotlib's global API, what does the order of numbers mean here?
+
+plt.subplot(1, 2, 1)
+
+answer:
+My figure will have one row, two columns, and I am going to start drawing in the first (left) plot.

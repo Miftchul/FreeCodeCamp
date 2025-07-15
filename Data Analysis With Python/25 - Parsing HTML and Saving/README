@@ -1,0 +1,4 @@
+What Python library has the .read_html() method we can use for parsing HTML documents and extracting tables?
+
+answer:
+Pandas

@@ -1,0 +1,4 @@
+What does the loc method allow you to do?
+
+answer: 
+Access a group of rows and columns by supplying label(s) arguments.

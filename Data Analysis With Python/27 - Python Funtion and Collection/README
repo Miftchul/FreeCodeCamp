@@ -1,0 +1,4 @@
+What is the main difference between lists and tuples in Python?
+
+answer:
+Tuples are immutable.

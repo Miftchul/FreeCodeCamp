@@ -1,0 +1,5 @@
+# How would you iterate over and print the keys and values of a dictionary named user?
+
+# answer:
+# for key, value in user.items():
+#     print(key, value)

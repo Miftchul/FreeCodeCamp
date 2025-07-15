@@ -1,0 +1,4 @@
+How do we define blocks of code in the body of functions in Python?
+
+answer:
+We use indentation, usually right-aligned 4 spaces.
